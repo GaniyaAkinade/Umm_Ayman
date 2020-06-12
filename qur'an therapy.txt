@@ -1,0 +1,41 @@
+// Quit your bad characters with the word of Allah//
+# include <iostream>;
+#include <cstdio>
+using namespace std;
+char suspicion;
+char scream;
+char impatience;
+char steadfastedness;
+
+
+int main(int argc, char** argv)
+{
+
+
+
+
+	cout<<"Steps to the Qur'an therapy\n";
+
+        cout<<
+		"1) Check yourself, identify a manner or character"
+		"you'd love to quit\n"
+		"2) Search for a verse of the Qur'an"
+		"that addresses that character and it's"
+		"evil\n"
+		"3) Memorize that verse\n"
+		"4) Pray that Allah eases your task on this\n"
+		"5) Start to act upon it gradually\n";
+	    "6) And here, guess...you are a changed person\n";
+														
+
+		cout <<
+			"Here, let's check out a practical example;"
+
+			"1)Whenever i'm in a discussion, i get almost everything"
+			"wrong by thinking that the person talking to me meant something"
+			"else entirely";
+
+
+		return 0;
+
+}
