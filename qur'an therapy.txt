@@ -2,17 +2,9 @@
 # include <iostream>;
 #include <cstdio>
 using namespace std;
-char suspicion;
-char scream;
-char impatience;
-char steadfastedness;
 
-
-int main(int argc, char** argv)
+int main()
 {
-
-
-
 
 	cout<<"Steps to the Qur'an therapy\n";
 
@@ -25,15 +17,7 @@ int main(int argc, char** argv)
 		"3) Memorize that verse\n"
 		"4) Pray that Allah eases your task on this\n"
 		"5) Start to act upon it gradually\n";
-	    "6) And here, guess...you are a changed person\n";
-														
-
-		cout <<
-			"Here, let's check out a practical example;"
-
-			"1)Whenever i'm in a discussion, i get almost everything"
-			"wrong by thinking that the person talking to me meant something"
-			"else entirely";
+	        "6) And here, guess...you are a changed person\n";
 
 
 		return 0;
